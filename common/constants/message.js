@@ -10,8 +10,8 @@ const REQUISITES = [
     id: "/haziretlogin",
     name: "Хазирет.К",
     mbank: "+996999800116",
-    omoney: "+996503989925",
-    optima: "4169585353587065",
+    omoney: "+996509449384",
+    optima: "4169585351209894",
   },
 ];
 
